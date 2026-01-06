@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SCRIPT_BATTLE_ANIM",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SCRIPT_BATTLE_ANIM",
+  "parent":{
+    "name":"Animations",
+    "path":"folders/Scripts/Animations.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

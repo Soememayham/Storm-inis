@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SCRIPT_HITT_ENEMY",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SCRIPT_HITT_ENEMY",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
